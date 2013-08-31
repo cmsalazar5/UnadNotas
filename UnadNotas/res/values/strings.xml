@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">UnadNotas</string>
+    <string name="app_name">Mi UNAD</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
-
+    
+    <!-- Items menu -->
+	<string name="itemCarrera">Mis Carreras</string>
+	<string name="itemConvenios">Convenios</string>
+	<string name="itemPlanEstudio">Plan de Estudio</string>
 </resources>
