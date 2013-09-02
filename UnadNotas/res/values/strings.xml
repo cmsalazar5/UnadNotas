@@ -3,9 +3,13 @@
 
     <string name="app_name">Mi UNAD</string>
     <string name="action_settings">Settings</string>
-    
+
     <!-- Items menu -->
-	<string name="itemCarrera">Mis Carreras</string>
-	<string name="itemConvenios">Convenios</string>
-	<string name="itemPlanEstudio">Plan de Estudio</string>
+    <string name="itemCarrera">Mis Carreras</string>
+    <string name="itemConvenios">Convenios</string>
+    <string name="itemPlanEstudio">Plan de Estudio</string>
+    
+    <string name="title_activity_carrera">Carreras</string>
+	<string name="problemaCarreras">Ocurrio un problema al consultar las carreras</string>
+    
 </resources>
